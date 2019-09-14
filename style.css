@@ -1,0 +1,30 @@
+#jeroAlva {
+    background-color: #4aaaa5;
+    padding-left: 1%;
+    padding-right:1%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#navbarMod {
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: white;
+}
+
+/* #footerJero {
+    color:
+    background-color: #343a40;
+} */
+
+body {
+    background-image: url(assets/papyrus.png)
+}
+
+#cuerpo {
+    background-color: white;
+}
+
+#fotoPortfolio{
+    width: 15%;
+}
