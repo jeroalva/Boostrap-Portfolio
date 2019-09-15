@@ -26,5 +26,9 @@ body {
 }
 
 #fotoPortfolio{
-    width: 15%;
+    width: 10%;
+}
+
+#textoCV{
+    padding: 2%;
 }
