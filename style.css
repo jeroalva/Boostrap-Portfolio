@@ -36,3 +36,11 @@ body {
 #textoMensaje{
     height: 15rem;
 }
+
+.portfolioProjects{
+    /* height: 10%; */
+}
+
+label {
+    font-size: 90%;
+}
